@@ -10,7 +10,7 @@
     padding: 10px;
     margin-left: 780px;
     margin-top: 10px;
-    
+    float: left;
 }
 
 .ransom {
@@ -19,4 +19,5 @@
     padding: 10px;
     margin-right: 780px;
     margin-top: 10px;
+    
 }
