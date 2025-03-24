@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.logo {
+    border: 2px black;
+    border-style: solid;
+    text-align: center;
+}
+
+.intro {
+    border: 2px black;
+    border-style: solid;
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.background {
+    border: 2px black;
+    border-style: solid;
+    text-align: center;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.goals {
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+    list-style-position: inside;
+}
+
+.b1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.ex1 {
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+.ex2 {
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+}
+
+.b2 {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.donors {
+    text-align: center;
+    list-style-type:none;
+    border: 2px black;
+    border-style: solid;
+}
+
+footer {
+    text-align: center;
+}

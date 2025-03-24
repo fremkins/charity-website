@@ -1,0 +1,72 @@
+.logo {
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.exnav {
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+}
+
+.char1 {
+    border: 3px black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 235px;
+    margin-right: 235px;
+    padding: 25px;
+}
+
+.char2 {
+    border: 3px black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 235px;
+    margin-right: 235px;
+    padding: 25px;
+}
+
+.char3 {
+    border: 3px black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 235px;
+    margin-right: 235px;
+    padding: 25px;
+}
+
+.char4 {
+    border: 3px black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 235px;
+    margin-right: 235px;
+    padding: 25px;
+}
+
+.char5 {
+    border: 3px black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 235px;
+    margin-right: 235px;
+    padding: 25px;
+}
+
+footer {
+    text-align: center;
+}
